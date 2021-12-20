@@ -1,0 +1,46 @@
+section {
+    display:flex;
+    flex-direction: column; 
+    width:75%;
+    border: 1px solid black;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+label {
+    display:block;
+    }
+
+input {
+    width: 70%;
+}
+
+#submit {
+    margin-left:55%;
+    margin-right:20%;
+}
+
+header {
+    text-align: center;
+}
+
+body {
+    background-color:gainsboro;
+}
+
+#requests {
+    background-color: lightgreen;
+}
+
+#form {
+    background-color:navajowhite;
+}
+
+img{
+    height:100px;
+}
+
+#head {
+    display:flex;
+    justify-content: space-around;
+}
